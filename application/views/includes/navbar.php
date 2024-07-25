@@ -3,7 +3,7 @@
 			<header class="site-header">
 				<div class="container">
 					<a href="<?=base_url();?>" class="branding">
-						<img src="<?=base_url();?>design/images/logo.png" alt="" class="logo">
+						<img src="<?=base_url();?>design/images/embc.png" alt="" class="logo" width="50">
 						<h1 class="site-title">Emmanuel Missionary Baptist Church</h1>
 					</a>
 

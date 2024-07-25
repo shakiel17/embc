@@ -1,26 +1,26 @@
 <div class="hero">
 				<div class="slides">
-					<li data-bg-image="<?=base_url();?>design/images/slide-1.jpg">
-						<div class="container">
+					<li data-bg-image="<?=base_url();?>design/images/embc-logo.png">
+						<!-- <div class="container">
 							<div class="slide-content">
 								<small class="slide-subtitle">Emmanuel Missionary Baptist Church of Kidapawan</small>
 								<h2 class="slide-title">God is with us</h2>
 
 								<a href="#" class="button">See our Members</a>
 							</div>
-						</div>
+						</div> -->
 					</li>
 
-					<li data-bg-image="<?=base_url();?>design/images/slide-1.jpg">
-						<div class="container">
+					<li data-bg-image="<?=base_url();?>design/images/embc-banner.png">						
+						<!-- <div class="container">
 							<div class="slide-content">
 							<small class="slide-subtitle">Emmanuel Missionary Baptist Church of Kidapawan</small>
 							<h2 class="slide-title">God is with us</h2>
 
 								<a href="#" class="button">See our Members</a>
 							</div>
-						</div>
-					</li>
+						</div> -->
+					</li>					
 				</div>
 			</div>
 

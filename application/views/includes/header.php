@@ -13,7 +13,7 @@
 
 		<!-- Loading main css file -->
 		<link rel="stylesheet" href="<?=base_url();?>design/style.css">
-		<link rel="icon" type="image/x-icon" href="<?=base_url();?>design/images/logo.png">
+		<link rel="icon" type="image/x-icon" href="<?=base_url();?>design/images/embc.png">
 		
 		<!--[if lt IE 9]>
 		<script src="js/ie-support/html5.js"></script>
