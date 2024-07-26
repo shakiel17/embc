@@ -6,7 +6,7 @@
 								<h3 class="widget-title">Our address</h3>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi perspiciatis magnam, ab ipsa laboriosam tempore tenetur, aliquid repellat, ex cum dicta reiciendis accusamus. Omnis repudiandae quasi mollitia, iusto odio dignissimos.</p>
 								<ul class="address">
-									<li><i class="fa fa-map-marker"></i> 329 Church St, Garland, TX 75042</li>
+									<li><i class="fa fa-map-marker"></i> Purok 2, Brgy. Manongol, Kidapawan City, Cotabato</li>
 									<li><i class="fa fa-phone"></i> (425) 853 442 552</li>
 									<li><i class="fa fa-envelope"></i> info@yourchurch.com</li>
 								</ul>
@@ -42,7 +42,7 @@
 						</div>
 					</div> <!-- .row -->
 
-					<p class="colophon">Copyright 2014 True Church. All right reserved</p>
+					<p class="colophon">Copyright 2024 EMBCKCI. All right reserved</p>
 				</div><!-- .container -->
 			</footer> <!-- .site-footer -->
 

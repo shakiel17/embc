@@ -18,6 +18,22 @@ date_default_timezone_set('Asia/Manila');
             $this->load->view('includes/navbar',$data);
             $this->load->view('pages/'.$page);         
             $this->load->view('includes/footer');               
-        }        
+        }
+        public function sermons(){
+            $page = "sermons";
+            if(!file_exists(APPPATH.'views/pages/'.$page.".php")){
+                show_404();
+            }                  
+            $data['home'] = '';
+            $data['pastor'] = '';
+            $data['sermon'] = 'current-menu-item';
+            $data['events'] = '';
+            $data['gallery'] = '';
+            $data['members'] = '';            
+            $this->load->view('includes/header');
+            $this->load->view('includes/navbar',$data);
+            $this->load->view('pages/'.$page);         
+            $this->load->view('includes/footer');
+        }
 }
 ?>
