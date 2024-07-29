@@ -14,15 +14,16 @@
 						</div>
 						<div class="col-md-4">
 							<div class="widget">
-								<h3 class="widget-title">Topics from last meeting</h3>
+								<h3 class="widget-title">Doctrinal Statement</h3>
 								<ul class="bullet">
-									<li><a href="#">Lorem ipsum dolor sit amet</a></li>
-									<li><a href="#">Consectetur adipisicing elit quis nostrud</a></li>
-									<li><a href="#">Eiusmod tempor incididunt ut labore et dolore magna</a></li> 
-									<li><a href="#">Ut enim ad minim veniam cillum</a></li>
-									<li><a href="#">Exercitation ullamco laboris nisi ut aliquip</a></li> 
-									<li><a href="#">Duis aute irure dolor in reprehenderit in voluptate</a></li>
-								</ul>
+									<li>We believe that love one for another as Jesus loves the believer manifests our discipleship, proves our love for God and symbolizes our authority as New
+									Testament churches. Love is therefore the great commandment of the LORD Jesus Christ upon which all others are dependent (Matt. 22:35-40; John 13:34, 35; John 15:12; 1 John 4:7-21; 1 John 5:1-3; Rev. 2:4,5).</li>
+									<li>We believe in the infallible, verbal inspiration of the whole Bible and that the Bible is the all-sufficient rule of faith and practice (Psalm 119:160; 2 Tim. 3:16,17).</li>																		
+								</ul>	<br>								
+								<div class="text-center">
+									<a href="<?=base_url();?>doctrinal_statement" class="button">View All</a>
+								</div>						
+								
 							</div>
 						</div>
 						<div class="col-md-4">
