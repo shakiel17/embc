@@ -16,10 +16,50 @@
 									<li>
 										<img src="<?=base_url();?>design/images/ronald.jpg" alt="" width="121">
 										<div class="seremon-detail">
-											<h3 class="seremon-title"><a href="#">Pastor RONALD MERABUENO CALAYCO, LPT</a></h3>
+											<h3 class="seremon-title"><a href="https://www.facebook.com/rcalayco" target="_blank">Pastor RONALD MERABUENO CALAYCO, LPT</a></h3>
 											<div class="seremon-meta">
 												<div class="pastor"><i class="fa fa-user"></i> Dodoy</div>
 												<div class="date"><i class="fa fa-calendar"></i> 23 sep 1992</div>
+											</div>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam molestiae doloribus deserunt minus a dicta labore beatae maiores assumenda. Laudantium nihil, maxime molestiae soluta doloribus magnam eum. Nesciunt, ea, sint.</p>
+										</div>
+									</li>                                    								
+								</ul>
+							</div>
+							<div class="content col-md-8">
+								<h2 class="section-title">
+                                ABOUT OUR DEACONS
+                                </h2>
+								<ul class="seremon-list large">
+									<li>
+										<img src="<?=base_url();?>design/images/elmer.jpg" alt="" width="121" height="121">
+										<div class="seremon-detail">
+											<h3 class="seremon-title"><a href="https://www.facebook.com/elmer.aboy" target="_blank">ELMER M. ABOY</a></h3>
+											<div class="seremon-meta">
+												<div class="pastor"><i class="fa fa-user"></i> Elmer</div>
+												<div class="date"><i class="fa fa-calendar"></i> 20 feb 1959</div>
+											</div>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam molestiae doloribus deserunt minus a dicta labore beatae maiores assumenda. Laudantium nihil, maxime molestiae soluta doloribus magnam eum. Nesciunt, ea, sint.</p>
+										</div>
+									</li>
+									<li>
+										<img src="<?=base_url();?>design/images/jeff.jpg" alt="" width="121">
+										<div class="seremon-detail">
+											<h3 class="seremon-title"><a href="https://www.facebook.com/jefferson.aro.7" target="_blank">JEFFERSON JOSE S. ARO</a></h3>
+											<div class="seremon-meta">
+												<div class="pastor"><i class="fa fa-user"></i> Jeff</div>
+												<div class="date"><i class="fa fa-calendar"></i> 08 Apr 1979</div>
+											</div>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam molestiae doloribus deserunt minus a dicta labore beatae maiores assumenda. Laudantium nihil, maxime molestiae soluta doloribus magnam eum. Nesciunt, ea, sint.</p>
+										</div>
+									</li>
+									<li>
+										<img src="<?=base_url();?>design/images/helmo.jpg" alt="" width="121">
+										<div class="seremon-detail">
+											<h3 class="seremon-title"><a href="https://www.facebook.com/helmo.abrantes.1" target="_blank">HELMO ABRANTES</a></h3>
+											<div class="seremon-meta">
+												<div class="pastor"><i class="fa fa-user"></i> Longkoy</div>
+												<div class="date"><i class="fa fa-calendar"></i> 8 dec 1972</div>
 											</div>
 											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam molestiae doloribus deserunt minus a dicta labore beatae maiores assumenda. Laudantium nihil, maxime molestiae soluta doloribus magnam eum. Nesciunt, ea, sint.</p>
 										</div>
