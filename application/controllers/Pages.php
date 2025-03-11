@@ -8,7 +8,7 @@ date_default_timezone_set('Asia/Manila');
             if(!file_exists(APPPATH.'views/pages/'.$page.".php")){
                 show_404();
             }                  
-            $data['home'] = "current-menu-item";
+            $data['home'] = "active";
             $data['pastor'] = '';
             $data['sermon'] = '';
             $data['events'] = '';
@@ -28,7 +28,7 @@ date_default_timezone_set('Asia/Manila');
             }                  
             $data['home'] = '';
             $data['pastor'] = '';
-            $data['sermon'] = 'current-menu-item';
+            $data['sermon'] = 'active';
             $data['events'] = '';
             $data['gallery'] = '';
             $data['members'] = '';  

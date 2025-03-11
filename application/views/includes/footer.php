@@ -1,60 +1,56 @@
-<footer class="site-footer">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-4">
-							<div class="widget">
-								<h3 class="widget-title">Our address</h3>
-								<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi perspiciatis magnam, ab ipsa laboriosam tempore tenetur, aliquid repellat, ex cum dicta reiciendis accusamus. Omnis repudiandae quasi mollitia, iusto odio dignissimos.</p> -->
-								<ul class="address">
-									<li><i class="fa fa-map-marker"></i> <a href="https://www.google.com/maps/place/7%C2%B001'37.4%22N+125%C2%B007'51.6%22E/@7.027053,125.1297185,543m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d7.027053!4d125.131006!5m1!1e4?entry=ttu" target="_blank">Purok 2, Brgy. Manongol, Kidapawan City, Cotabato</a></li>
-									<li><i class="fa fa-phone"></i> (425) 853 442 552</li>
-									<li><i class="fa fa-envelope"></i> info@yourchurch.com</li>
-									<li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/groups/388534258273521" target="_blank">Emmanuel Missionary Baptist Church</a></li>
-								</ul>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="widget">
-								<h3 class="widget-title">Doctrinal Statement</h3>
-								<ul class="bullet">
-									<li>We believe that love one for another as Jesus loves the believer manifests our discipleship, proves our love for God and symbolizes our authority as New
-									Testament churches. Love is therefore the great commandment of the LORD Jesus Christ upon which all others are dependent (Matt. 22:35-40; John 13:34, 35; John 15:12; 1 John 4:7-21; 1 John 5:1-3; Rev. 2:4,5).</li>
-									<li>We believe in the infallible, verbal inspiration of the whole Bible and that the Bible is the all-sufficient rule of faith and practice (Psalm 119:160; 2 Tim. 3:16,17).</li>																		
-								</ul>	<br>								
-								<div class="text-center">
-									<a href="<?=base_url();?>doctrinal_statement" class="button">View All</a>
-								</div>						
-								
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="widget">
-								<h3 class="widget-title">Contact form</h3>
-								<form action="#" class="contact-form">
-									<div class="row">
-										<div class="col-md-6"><input type="text" placeholder="Your name..."></div>
-										<div class="col-md-6"><input type="text" placeholder="Email..."></div>
-									</div>
-									
-									<textarea name="" placeholder="Your message..."></textarea>
-									<div class="text-right"><input type="submit" value="Send message"></div>
-									
-								</form>
-							</div>
-						</div>
-					</div> <!-- .row -->
+<div class="container-wrap">
+		<footer id="fh5co-footer" role="contentinfo">
+			<div class="col-md-4 text-center">
+				<h3>Brgy. Manongol, Kidapawan City</h3>
+			</div>
+			<div class="col-md-4 text-center">
+				<h2><a href="#">EMBCKCI</a></h2>
+			</div>
+			<div class="col-md-4 text-center">
+				<p>
+					<ul class="fh5co-social-icons">
+						<li><a href="#"><i class="icon-twitter2"></i></a></li>
+						<li><a href="https://www.facebook.com/profile.php?id=61572523450761" target="_blank"><i class="icon-facebook2"></i></a></li>
+						<li><a href="#"><i class="icon-dribbble2"></i></a></li>
+					</ul>
+				</p>
+			</div>
+			<div class="row copyright">
+				<div class="col-md-12 text-center">
+					<p>
+						<small class="block">&copy; 2025 EMBCKCI. All Rights Reserved.</small> 
+						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">Eczekiel Aboy</a></small>
+					</p>
+				</div>
+			</div>
+		</footer>
+	</div><!-- END container-wrap -->
+	</div>
 
-					<p class="colophon">Copyright 2024 EMBCKCI. All right reserved</p>
-				</div><!-- .container -->
-			</footer> <!-- .site-footer -->
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="<?=base_url('design/js/jquery.min.js');?>"></script>
+	<!-- jQuery Easing -->
+	<script src="<?=base_url('design/js/jquery.easing.1.3.js');?>"></script>
+	<!-- Bootstrap -->
+	<script src="<?=base_url('design/js/bootstrap.min.js');?>"></script>
+	<!-- Waypoints -->
+	<script src="<?=base_url('design/js/jquery.waypoints.min.js');?>"></script>
+	<!-- Flexslider -->
+	<script src="<?=base_url('design/js/jquery.flexslider-min.js');?>"></script>
+	<!-- Carousel -->
+	<script src="<?=base_url('design/js/owl.carousel.min.js');?>"></script>
+	<!-- Magnific Popup -->
+	<script src="<?=base_url('design/js/jquery.magnific-popup.min.js');?>"></script>
+	<script src="<?=base_url('design/js/magnific-popup-options.js');?>"></script>
+	<!-- Counters -->
+	<script src="<?=base_url('design/js/jquery.countTo.js');?>"></script>
+	<!-- Main -->
+	<script src="<?=base_url('design/js/main.js');?>"></script>
 
-		</div>
-		
-
-		<script src="<?=base_url();?>design/js/jquery-1.11.1.min.js"></script>
-		<script src="<?=base_url();?>design/js/plugins.js"></script>
-		<script src="<?=base_url();?>design/js/app.js"></script>
-		
 	</body>
-
 </html>
+
